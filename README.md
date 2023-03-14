@@ -1,4 +1,4 @@
-# As estrelas mais próximas do Planeta terra
+# As estrelas mais próximas do Planeta 🌏 !
 
 Projeto autoral final desenvolvido no curso euProgramo, FE#2-T03 da Programaria;
 

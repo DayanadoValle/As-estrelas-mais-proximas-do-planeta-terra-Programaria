@@ -7,9 +7,9 @@
 ---
 
 
-###  📝As estrelas mais próximas do Planeta 🌏 !
+###  As estrelas mais próximas do Planeta 🌏 !
 
-Projeto autoral final desenvolvido no curso euProgramo, FE#2-T03 da Programaria;
+Projeto **autoral final** desenvolvido no curso euProgramo, FE#2-T03 da Programaria;
 
 Nesse curso aprendi sobre responvidade com @media e o efeito accordion com HTML5.
 
@@ -46,7 +46,7 @@ Este projeto foi realizado como parte do **curso de Front-End da [Programaria](h
 ---
 
 ### 🌐 Veja Aqui  
-👉 [Acesse o site do projeto](https://dayanadovalleportfolio2023.netlify.app/)  
+👉 [Acesse o site do projeto]([https://dayanadovalleportfolio2023.netlify.app/](https://dayanadovalle.github.io/As-estrelas-mais-proximas-do-planeta-terra-Programaria/))  
 
 ---
 

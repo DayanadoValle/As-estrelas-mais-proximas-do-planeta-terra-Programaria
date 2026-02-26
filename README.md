@@ -46,7 +46,7 @@ Este projeto foi realizado como parte do **curso de Front-End da [Programaria](h
 ---
 
 ### 🌐 Veja Aqui  
-👉 [Acesse o site do projeto]([https://dayanadovalleportfolio2023.netlify.app/](https://dayanadovalle.github.io/As-estrelas-mais-proximas-do-planeta-terra-Programaria/))  
+👉 [Acesse o site do projeto](https://dayanadovalle.github.io/As-estrelas-mais-proximas-do-planeta-terra-Programaria/)
 
 ---
 

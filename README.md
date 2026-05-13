@@ -52,7 +52,6 @@ Este projeto foi realizado como parte do **curso de Front-End da [Programaria](h
 
 ### 👩‍💻 Autora  
 Desenvolvido por **Dayana do Valle**  
-Trilha SCTEC – Desenvolvimento de Software  
 Curso de Front-End – [Programaria](https://www.programaria.org/)  
 
 - GitHub: [DayanadoValle](https://github.com/DayanadoValle)  
